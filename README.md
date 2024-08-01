@@ -1,6 +1,6 @@
-## Vehicle Rental Management System (VRMS)
+# Vehicle Rental Management System (VRMS)
 
-## INTRODUCTION 
+## Introduction
 In today's fast-paced world, the demand for efficient and streamlined vehicle rental services is 
 paramount. Traditional vehicle rental systems often rely on extensive physical records and 
 manual processes, leading to various operational challenges and inefficiencies. To address 
