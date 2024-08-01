@@ -1,18 +1,12 @@
-## Getting Started
+## Vehicle Rental Management System (VRMS)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# INTRODUCTION 
+In today's fast-paced world, the demand for efficient and streamlined vehicle rental services is 
+paramount. Traditional vehicle rental systems often rely on extensive physical records and 
+manual processes, leading to various operational challenges and inefficiencies. To address 
+these issues, an object-oriented programming (OOP) approach can be employed to design a 
+robust and scalable Vehicle Rental Management System (VRMS), which is this project.
 
-## Folder Structure
+# Functionality
+This Java program assumes the user to be the manager of a car rental business. The manager is able to add the information of new vehicles that are in the warehouse, display the warehouse details, change warehouse specifications as well as add the information of rentals and display them. The manager can add details of servicing that was done to a vehcle, and they also have the option to view vehicle information by a certain type. Lastly, when the manager exits the program, a text file is created that stores all the information they entered during their session.  
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
